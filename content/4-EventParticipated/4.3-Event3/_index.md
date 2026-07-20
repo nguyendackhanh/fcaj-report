@@ -120,7 +120,6 @@ Attending the **“GenAI-powered App-DB Modernization”** workshop was extremel
 
 #### Some event photos
 
-![Event Picture 1](/fcaj-report/images/event/event 3/event3-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 3/event3-2.jpg?v=20260710)
-
+![Event Picture 1](/images/event/event%203/event3-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%203/event3-2.jpg?v=20260710)
 > Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.

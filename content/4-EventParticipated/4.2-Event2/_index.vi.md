@@ -106,7 +106,7 @@ pre: " <b> 4.2. </b> "
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-![Event Picture 1](/fcaj-report/images/event/event 2/event2-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 2/event2-2.jpg?v=20260710)
-![Event Picture 3](/fcaj-report/images/event/event 2/event2-3.jpg?v=20260710)
+![Event Picture 1](/images/event/event%202/event2-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%202/event2-2.jpg?v=20260710)
+![Event Picture 3](/images/event/event%202/event2-3.jpg?v=20260710)
 > **Tổng kết:** AWS Community Day Vietnam 2026 mang lại một trải nghiệm tuyệt vời, không chỉ bồi đắp kiến thức công nghệ Cloud & AI chuyên sâu mà còn khơi dậy tư duy kỹ sư chuyên nghiệp, tính kỷ luật trong lập trình và định hướng nghề nghiệp rõ ràng cho bản thân em.

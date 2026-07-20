@@ -115,8 +115,9 @@ Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải 
 
 #### Một số hình ảnh khi tham gia sự kiện
 #### Some photos from the event
-![Event Picture 1](/fcaj-report/images/event/event 3/event3-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 3/event3-2.jpg?v=20260710)
+![Event Picture 1](/images/event/event%203/event3-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%203/event3-2.jpg?v=20260710)
+
 #### Bài học rút ra
 - Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
 - Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.

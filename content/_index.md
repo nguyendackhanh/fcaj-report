@@ -29,7 +29,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 20/04/2026 to 31/07/2026
 
-![Your profile picture](/FCAJ/images/DacKhanh.jpg)
+![Your profile picture](/images/DacKhanh.jpg)
 
 ### Report Content
 

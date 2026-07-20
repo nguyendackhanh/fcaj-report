@@ -57,9 +57,9 @@ pre: " <b> 4.1. </b> "
 
 ---
 #### Some photos from the event
-![Event Picture 1](/fcaj-report/images/event/event 1/event1-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 1/event1-2.jpg?v=20260710)
-![Event Picture 3](/fcaj-report/images/event/event 1/event1-3.jpg?v=20260710)
+![Event Picture 1](/images/event/event%201/event1-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%201/event1-2.jpg?v=20260710)
+![Event Picture 3](/images/event/event%201/event1-3.jpg?v=20260710)
 ### What I Learned
 - Understood the dopamine mechanism to self-motivate daily AWS study sessions without feeling bored or overwhelmed.
 - Learned how to optimize prompts when using AI and visualized a real-world Serverless AI architecture on AWS (S3, API Gateway, Lambda, Bedrock).

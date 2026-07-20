@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 #### Some photos from the event
-![Event Picture 1](/fcaj-report/images/event/event 2/event2-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 2/event2-2.jpg?v=20260710)
-![Event Picture 3](/fcaj-report/images/event/event 2/event2-3.jpg?v=20260710)
+![Event Picture 1](/images/event/event%202/event2-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%202/event2-2.jpg?v=20260710)
+![Event Picture 3](/images/event/event%202/event2-3.jpg?v=20260710)
 
 
 

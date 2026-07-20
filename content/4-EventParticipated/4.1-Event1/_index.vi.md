@@ -57,9 +57,9 @@ pre: " <b> 4.1. </b> "
 
 ---
 #### Một số hình ảnh khi tham gia sự kiện
-![Event Picture 1](/fcaj-report/images/event/event 1/event1-1.jpg?v=20260710)
-![Event Picture 2](/fcaj-report/images/event/event 1/event1-2.jpg?v=20260710)
-![Event Picture 3](/fcaj-report/images/event/event 1/event1-3.jpg?v=20260710)
+![Event Picture 1](/images/event/event%201/event1-1.jpg?v=20260710)
+![Event Picture 2](/images/event/event%201/event1-2.jpg?v=20260710)
+![Event Picture 3](/images/event/event%201/event1-3.jpg?v=20260710)
 
 ### Những Gì Học Được
 - Hiểu được cơ chế hoạt động của Dopamine để tự tạo động lực học tập AWS mỗi ngày mà không bị chán nản.
