@@ -1,0 +1,1 @@
+﻿aws cloudformation create-stack --stack-name Lab20-Stack --template-body file://lab/20/template_extracted/AWS-Transit-Gateway-Template-master/tgw-lab.yaml --parameters ParameterKey=SSHKeyName,ParameterValue=tgw-key --capabilities CAPABILITY_IAM

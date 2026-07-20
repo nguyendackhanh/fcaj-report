@@ -1,0 +1,32 @@
+<script>
+  (function() {
+    var path = window.location.pathname;
+    var repoName = '/FCAJ/';
+    var storageKey = 'hugo_user_lang';
+
+    // 1. Nếu đang ở các trang con, ghi nhớ ngôn ngữ hiện tại vào LocalStorage
+    if (path.indexOf(repoName + 'vi/') !== -1) {
+      localStorage.setItem(storageKey, 'vi');
+    } else if (path.indexOf(repoName + 'en/') !== -1) {
+      localStorage.setItem(storageKey, 'en');
+    }
+
+    // 2. Nếu đang ở trang chủ, thực hiện chuyển hướng thông minh
+    if (path === repoName || path === repoName + 'index.html' || path === '/') {
+      var savedLang = localStorage.getItem(storageKey);
+      
+      if (savedLang) {
+        // Nếu đã có lựa chọn lưu trước đó, chuyển hướng theo lựa chọn đó
+        window.location.href = window.location.origin + repoName + savedLang + '/';
+      } else {
+        // Nếu chưa có, đoán theo ngôn ngữ trình duyệt
+        var userLang = (navigator.language || navigator.userLanguage).toLowerCase(); 
+        if (userLang.startsWith('vi')) {
+          window.location.href = window.location.origin + repoName + 'vi/';
+        } else {
+          window.location.href = window.location.origin + repoName + 'en/';
+        }
+      }
+    }
+  })();
+</script>

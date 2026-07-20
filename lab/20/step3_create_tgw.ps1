@@ -1,0 +1,1 @@
+﻿aws ec2 create-transit-gateway --description 'Transit Gateway for lab20' --options DefaultRouteTableAssociation=disable,DefaultRouteTablePropagation=disable --tag-specifications 'ResourceType=transit-gateway,Tags=[{Key=Name,Value=lab20-tgw}]'
