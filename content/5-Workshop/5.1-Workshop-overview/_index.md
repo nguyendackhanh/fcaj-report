@@ -39,4 +39,4 @@ With this approach, the deployment flow becomes simple:
 
 The finished system includes a static frontend hosted on S3, REST APIs served through API Gateway, backend logic running on Lambda, data stored in DynamoDB, and authentication handled by Cognito.
 
-![Architecture](/images/event_portal_architecture.jpg)
+![Architecture](/images/architect.jpg)
