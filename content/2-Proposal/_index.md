@@ -25,7 +25,7 @@ The solution delivers a professional platform featuring 12 API endpoints, integr
 ### 3. Solution Architecture  
 The system operates on an **Event-Driven Architecture**, provisioning computing resources only when requested.
 
-![Architecture](/images/event_portal_architecture.jpg)
+![Architecture](/images/architect.jpg)
 
 *Core AWS Services*  
 - **Amazon S3 & CloudFront**: Host and distribute the static web frontend.  
