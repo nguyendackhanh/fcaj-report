@@ -10,10 +10,7 @@ pre: " <b> 8. </b> "
 
 Tài liệu tóm tắt các chức năng chính của người dùng (User) và quản trị viên (Admin) trên hệ thống AWS Serverless Event Management Portal.
 
-<video width="100%" controls>
-  <source src="/videos/Video-Demo.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
-</video>
+<iframe src="https://drive.google.com/file/d/1Y3MPZf0hw9Wffg0gG8jd0tQ1gRZOB3bQ/preview" width="100%" height="450" allow="autoplay"></iframe>
 
 ## 👥 1. Chức Năng Của Người Dùng (User / Visitor)
 

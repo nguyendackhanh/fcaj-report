@@ -10,10 +10,7 @@ pre: " <b> 8. </b> "
 
 The document summarizes the main functions of users (User) and administrators (Admin) on the AWS Serverless Event Management Portal system.
 
-<video width="100%" controls>
-  <source src="/videos/Video-Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://drive.google.com/file/d/1Y3MPZf0hw9Wffg0gG8jd0tQ1gRZOB3bQ/preview" width="100%" height="450" allow="autoplay"></iframe>
 
 ## 👥 1. User Functions (User / Visitor)
 
